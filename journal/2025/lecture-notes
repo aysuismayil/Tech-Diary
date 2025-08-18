@@ -1,0 +1,10 @@
+# Notes from Python for Everybody Lecture — 2025-08-17
+
+- *Python:* is a tool that the programmers on the back side of this computer use to make new things for the front side of the computer.
+
+- *Software:* the main inside the computer. We have the *Central Processing Unit (CPU), **Main Memory (RAM), and **Secondary Memory (Disk/SSD)*.
+
+### How it works
+1. Python code is stored in *secondary memory*.  
+2. When executed, it is loaded into *main memory (RAM)*.  
+3. The *CPU* reads instructions from RAM and performs them step by step.
