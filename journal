@@ -1,0 +1,22 @@
+# Course: Python for Eveybody - Trial
+## What I learned today
+### Computer Architecture Basics
+
+- *CPU (Central Processing Unit):* the "brain" of the computer, executes instructions.  
+- *Main Memory (RAM):* short-term working space, stores programs and data while running. Contents disappear when power is off.  
+- *Secondary Memory (Disk/SSD):* long-term storage for programs and files, data stays after shutdown.  
+
+### How they work together
+1. A program (like Python code) is saved on *secondary memory*.  
+2. When executed, it is loaded into *main memory (RAM)*.  
+3. The *CPU* reads instructions from RAM and performs them step by step.  
+
+### Python's role
+- Python is a tool (programming language) used by programmers to tell the computer what to do.  
+- It connects the "back side" (logic, code, processing) with the "front side" (what users see and use).  
+
+### Analogy
+- *Secondary memory = bookshelf*  
+- *Main memory = desk*  
+- *CPU = your brain*  
+- *Python = the language of the books with instructions*
