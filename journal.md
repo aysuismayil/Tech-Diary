@@ -102,3 +102,32 @@ Interactive vs Script:
 	•	Script — save a sequence of steps in a .py file; Python executes them all.
 
 Summary: Programs = sequences of steps, which can be conditional, repeated, or stored as functions.
+
+
+## Conditional Steps in Python
+
+Sometimes, in a program, we don’t want everything to run in order.  
+We want the computer to make a choice. These choices are called **conditional steps**.  
+
+A conditional step checks if something is **true** or **false** and then decides what to do.  
+
+### Example
+
+```python
+x = 5
+
+if x > 3:
+    print("x is greater than 3")
+else:
+    print("x is not greater than 3")
+Output:
+x is greater than 3
+Here:
+
+The if statement is the condition.
+
+If the condition is true, Python runs the first block.
+
+If it’s false, Python runs the else block.
+
+That’s how Python makes decisions in your programs.
