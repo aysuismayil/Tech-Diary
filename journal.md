@@ -32,3 +32,31 @@ If we use these words, we must use them in the way Python expects.
 We cannot make up a variable named import or assert.
 
 If Python sees assert, it knows it is a command with special meaning, not just a name.
+
+## Writing a Python Program
+
+When we write a program in Python, it’s like writing a text file made of lines.  
+Each line is an instruction, and when we put these lines together, they make a whole program.  
+
+For example:  
+
+```python
+x = 2
+x = x + 2
+print(x)
+First, we put the number 2 into the variable x.
+
+Then we add 2 more and store the result back into x.
+
+Finally, print(x) shows the result → 4.
+Operators and Functions
+
+The plus (+) is called an operator.
+
+The equal sign (=) is also an operator (it assigns values).
+
+The word print is a function.
+
+Inside the parentheses, we pass a parameter (in this case, x).
+
+So when Python runs the code, it uses operators and functions to understand what we mean.
