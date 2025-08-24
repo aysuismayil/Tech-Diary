@@ -38,16 +38,18 @@ Each line is an instruction, and when we put these lines together, they make a w
 
 For example:  
 
-python
+'''
 x = 2
 x = x + 2
 print(x)
+'''
 First, we put the number 2 into the variable x.
 
 Then we add 2 more and store the result back into x.
 
 Finally, print(x) shows the result → 4.
-Operators and Functions
+
+### Operators and Functions
 
 The plus (+) is called an operator.
 
@@ -74,13 +76,13 @@ So, a **script** is just a set of instructions stored in a text file that Python
 
 File: `hello.py`
 
-python
+'''
 print("Hello, world!")
 Run it in the terminal:
 python hello.py
 Output:
 Hello, world!
-
+'''
 
 ### Programming Basics: Flow of Control
 
