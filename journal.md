@@ -38,7 +38,7 @@ Each line is an instruction, and when we put these lines together, they make a w
 
 For example:  
 
-```python
+python
 x = 2
 x = x + 2
 print(x)
@@ -74,7 +74,7 @@ So, a **script** is just a set of instructions stored in a text file that Python
 
 File: `hello.py`
 
-```python
+python
 print("Hello, world!")
 Run it in the terminal:
 python hello.py
