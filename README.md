@@ -45,13 +45,15 @@ Operators and Functions
 print() is a function. Inside the parentheses, we give it a parameter.
 
 Example:
+```python
 y = 10
 print(y + 5)
 Output:
 15
+```
+---
 
-
-# Chevron Prompt in Python
+## Chevron Prompt in Python
 
 This repository explains the **Chevron Prompt** in Python and provides examples.  
 The chevron (`>>>`) is what you see in the Python interactive shell (REPL).
@@ -65,7 +67,6 @@ When you start Python in interactive mode, you will see special prompts:
 - `>>>` **Main prompt** — Python is ready for a new command.  
 - `...` **Continuation prompt** — Python is waiting for the rest of your multi-line code.  
 
----
 
 ## Example
 
@@ -78,18 +79,23 @@ OK
 >>> x * 2
 20
 # Tech-Diary
+```
 
-Scripts and Python Programs
+## Scripts and Python Programs
 
 When programs get longer, we save them into a file.
 Python files end with .py. These are called scripts or Python programs.
 
-Example: hello.py
+Example:
+```python
+hello.py
 print("Hello, world!")
 Run in terminal:
 python hello.py
 Output:
 Hello, world!
+```
+---
 A script is just a set of instructions saved in a file that Python can run.
 
 Conditional Steps
@@ -98,6 +104,7 @@ Programs can also make decisions.
 These are called conditional steps. They run only if something is true.
 
 Example:
+```python
 x = 5
 
 if x > 3:
@@ -106,6 +113,8 @@ else:
     print("x is not greater than 3")
 Output:
 x is greater than 3
+```
+---
 Summary
 
 Reserved words are special — don’t use them as names.
