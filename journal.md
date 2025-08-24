@@ -20,3 +20,6 @@
 - *Main memory = desk*  
 - *CPU = your brain*  
 - *Python = the language of the books with instructions*
+
+### Reserved Words
+So if we start at vocabulary, the first thing we have in every programming language is what's called reserved words. Now, what do we mean by reserved words? Well, these are words that if we use these words, we must use them to mean the thing that Python expects them to mean. Another way to put that is we can't use them elsewhere. We can't make up a variable named import. We can't make a variable named assert; because if Python sees assert, it means something very specific to Python.
