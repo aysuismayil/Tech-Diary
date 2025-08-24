@@ -37,8 +37,7 @@ When we write a program in Python, it’s like writing a text file made of lines
 Each line is an instruction, and when we put these lines together, they make a whole program.  
 
 For example:  
-
-'''
+'''python
 x = 2
 x = x + 2
 print(x)
@@ -73,10 +72,8 @@ Text editors often help by showing colors (syntax highlighting), making code eas
 So, a **script** is just a set of instructions stored in a text file that Python can run.  
 
 # Example
-
+'''python
 File: `hello.py`
-
-'''
 print("Hello, world!")
 Run it in the terminal:
 python hello.py
