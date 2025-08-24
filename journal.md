@@ -80,3 +80,26 @@ Run it in the terminal:
 python hello.py
 Output:
 Hello, world!
+
+
+Programming Basics: Flow of Control
+
+A program is like a recipe — a sequence of steps that Python executes in order.
+
+1. Sequence
+
+Steps are executed one by one.
+2. Conditional
+
+Some steps are executed only if a condition is true.
+3. Loops
+
+Steps or groups of steps can be repeated.
+4. Functions
+
+A set of steps can be saved and reused multiple times.
+Interactive vs Script:
+	•	Interactive — type one command at a time; Python responds immediately.
+	•	Script — save a sequence of steps in a .py file; Python executes them all.
+
+Summary: Programs = sequences of steps, which can be conditional, repeated, or stored as functions.
