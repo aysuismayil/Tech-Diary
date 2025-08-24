@@ -28,9 +28,7 @@ In every programming language, we have what’s called reserved words (or keywor
 These are special words that have a specific meaning in Python and cannot be used for other purposes, such as naming variables.
 
 If we use these words, we must use them in the way Python expects.
-
 We cannot make up a variable named import or assert.
-
 If Python sees assert, it knows it is a command with special meaning, not just a name.
 
 ## Writing a Python Program
@@ -56,12 +54,10 @@ The plus (+) is called an operator.
 The equal sign (=) is also an operator (it assigns values).
 
 The word print is a function.
-
 Inside the parentheses, we pass a parameter (in this case, x).
-
 So when Python runs the code, it uses operators and functions to understand what we mean.
 
-## Scripts and Python Programs
+### Scripts and Python Programs
 
 When we have more than just a few lines of code, it’s easier to put them into a **file** instead of typing everything directly into Python.  
 We write the code in a text editor (like Atom, VS Code, or even Notepad) and save it.  
@@ -74,7 +70,7 @@ Text editors often help by showing colors (syntax highlighting), making code eas
 
 So, a **script** is just a set of instructions stored in a text file that Python can run.  
 
-### Example
+# Example
 
 File: `hello.py`
 
