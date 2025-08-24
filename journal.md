@@ -22,4 +22,13 @@
 - *Python = the language of the books with instructions*
 
 ### Reserved Words
-So if we start at vocabulary, the first thing we have in every programming language is what's called reserved words. Now, what do we mean by reserved words? Well, these are words that if we use these words, we must use them to mean the thing that Python expects them to mean. Another way to put that is we can't use them elsewhere. We can't make up a variable named import. We can't make a variable named assert; because if Python sees assert, it means something very specific to Python.
+So if we start at vocabulary, the first thing we have in every programming language is what's called reserved words. Now, what do we mean by reserved words? Well, these are words that if we use these words, we must use them to mean the thing that Python expects them to mean. Another way to put that is we can't use them elsewhere. We can't make up a variable named import. We can't make a variable named assert; because if Python sees assert, it means something very specific to Python.Reserved Words in Python
+
+In every programming language, we have what’s called reserved words (or keywords).
+These are special words that have a specific meaning in Python and cannot be used for other purposes, such as naming variables.
+
+If we use these words, we must use them in the way Python expects.
+
+We cannot make up a variable named import or assert.
+
+If Python sees assert, it knows it is a command with special meaning, not just a name.
