@@ -60,3 +60,27 @@ The word print is a function.
 Inside the parentheses, we pass a parameter (in this case, x).
 
 So when Python runs the code, it uses operators and functions to understand what we mean.
+
+## Scripts and Python Programs
+
+When we have more than just a few lines of code, it’s easier to put them into a **file** instead of typing everything directly into Python.  
+We write the code in a text editor (like Atom, VS Code, or even Notepad) and save it.  
+
+- A Python file ends with **`.py`**.  
+- We call this file a **script** or a **Python program**.  
+- Python runs the file from the beginning to the end, line by line.  
+
+Text editors often help by showing colors (syntax highlighting), making code easier to read, and even pointing out mistakes.  
+
+So, a **script** is just a set of instructions stored in a text file that Python can run.  
+
+### Example
+
+File: `hello.py`
+
+```python
+print("Hello, world!")
+Run it in the terminal:
+python hello.py
+Output:
+Hello, world!
