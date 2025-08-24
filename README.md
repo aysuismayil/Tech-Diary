@@ -27,7 +27,7 @@ Example:
 x = 2
 x = x + 2
 print(x)
-'''
+```
 Steps:
 
 Put number 2 into variable x.
