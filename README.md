@@ -38,9 +38,9 @@ Print the result → 4
 
 Operators and Functions
 
-+ is an operator (it adds things).
+"+" is an operator (it adds things).
 
-= is also an operator (it assigns values).
+"=" is also an operator (it assigns values).
 
 print() is a function. Inside the parentheses, we give it a parameter.
 
