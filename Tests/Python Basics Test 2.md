@@ -34,4 +34,21 @@ What does this statement do?
 Answer: Retrieve the current value of x, add 2, and store the sum back in x
 Explanation: This is a standard way to increase a variable’s value.
 -----
+Which element of a mathematical expression in Python is evaluated first?
+Options: Parenthesis, Multiplication, Subtraction, Addition
+
+Answer: Parenthesis
+Explanation: Python follows order of operations (PEMDAS/BODMAS): Parentheses → Exponentiation → Multiplication/Division → Addition/Subtraction.
+------
+```python
+42%10
+```
+What is the value?
+
+Answer: 2
+Explanation: % is the modulus operator. It returns the remainder of division. 42 ÷ 10 = 4 remainder 2.
+-------
+
+
+
 
