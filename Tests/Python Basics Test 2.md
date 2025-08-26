@@ -48,7 +48,29 @@ What is the value?
 Answer: 2
 Explanation: % is the modulus operator. It returns the remainder of division. 42 ÷ 10 = 4 remainder 2.
 -------
+```python
+x=1+2*3-8/4
+```
+What is the value of x?
 
+Answer: 5.0
+Explanation: Python evaluates multiplication and division first:
+	•	2 * 3 = 6
+	•	8 / 4 = 2.0
+Then addition and subtraction left to right: 1 + 6 - 2.0 = 5.0
+------
+```python
+x=int(98.6)
+```
+What is the value of x?
+
+Answer: 98
+Explanation: int() truncates the decimal part and returns an integer.
+------
+What does the Python input() function do?
+
+Answer: Pause the program and read data from the user
+Explanation: input() stops execution until the user types something and presses Enter. The returned value is always a string.
 
 
 
