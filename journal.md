@@ -1,4 +1,4 @@
-# Course: Python for Eveybody - Trial
+# Course: Python for Eveybody 
 ## What I learned today
 ### Computer Architecture Basics
 
@@ -133,3 +133,24 @@ If the condition is true, Python runs the first block.
 If it’s false, Python runs the else block.
 
 That’s how Python makes decisions in your programs.
+------------
+Python Basics: Variables and Data Types
+
+1. Variables
+	•	A variable is like a labeled box that stores a value.
+	•	Each variable has a name and a value.
+	•	Variable names can contain letters, numbers, and underscores (_).
+	•	Use = to assign a value to a variable:
+```python
+name="Olivia"
+xp=70
+verified=True
+```
+•	You can change the value anytime:
+```python
+xp=80
+print(xp)
+# Output: 80
+```
+
+
