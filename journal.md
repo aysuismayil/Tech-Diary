@@ -151,7 +151,7 @@ verified=True
 xp=80
 print(xp)
 ```
-# Output: 80
+ Output: 80
 
 
 2. Integer (int)
@@ -185,13 +185,13 @@ message="Good night"
 username='Aysu'
 password="12345"
 ```
-# even numbers in quoters are text
+ even numbers in quoters are text
 •	Strings are for words, sentences, symbols, or anything written in quotes.
 	•	To display text:
  ```python
 print(message)
 ```
-# Output: Good night
+Output: Good night
 
 5. Boolean (bool)
 	•	Stores a value that can only be True or False.
