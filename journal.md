@@ -150,7 +150,70 @@ verified=True
 ```python
 xp=80
 print(xp)
-# Output: 80
 ```
+# Output: 80
+
+
+2. Integer (int)
+	•	Stores whole numbers (no decimal point).
+	•	Can be positive, negative, or zero.
+	•	Examples:
+```python
+year=2023
+age=32
+temperature=-5
+count=0
+```
+•	Use int when counting things (people, apples, bottles, etc.).
+
+3. Float (float)
+	•	Stores numbers with a decimal point (fractions).
+	•	Examples:
+```python
+length=2.5
+score=89.7
+average=0.345
+```
+•	Use float when measuring, calculating percentages, or storing averages.
+
+4. String (str)
+	•	Stores text.
+	•	Text is wrapped in single (' ') or double (" ") quotes.
+	•	Examples:
+```python
+message="Good night"
+username='Aysu'
+password="12345"
+```
+# even numbers in quoters are text
+•	Strings are for words, sentences, symbols, or anything written in quotes.
+	•	To display text:
+ ```python
+print(message)
+```
+# Output: Good night
+
+5. Boolean (bool)
+	•	Stores a value that can only be True or False.
+	•	Named after the mathematician George Boole.
+	•	Examples:
+```python
+late_to_class=False
+cranky=True
+```
+•	Useful for yes/no questions:
+	•	Is the student late? → True / False
+	•	Is the light on? → True / False
+	•	Is the user verified? → True / False
+
+ 
+  Summary Tip:
+	•	int → whole numbers
+	•	float → numbers with decimals
+	•	str → text
+	•	bool → True/False
+	•	Variables are boxes that can store, change, and display these values.
+
+
 
 
