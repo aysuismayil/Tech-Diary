@@ -230,13 +230,13 @@ When evaluating expressions, Python follows the order of operations (PEMDAS):
    # 11.0
    ```
    Step by step evaluation:
-	1.	Power → 2 ** 3 = 8
+Power → 2 ** 3 = 8
 → x = 1 + 8 / 4 * 5
-	2.	Division → 8 / 4 = 2.0
+Division → 8 / 4 = 2.0
 → x = 1 + 2.0 * 5
-	3.	Multiplication → 2.0 * 5 = 10.0
+Multiplication → 2.0 * 5 = 10.0
 → x = 1 + 10.0
-	4.	Addition → 1 + 10.0 = 11.0
+Addition → 1 + 10.0 = 11.0
 
  Result: 11.0
 
