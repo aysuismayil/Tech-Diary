@@ -71,7 +71,7 @@ Text editors often help by showing colors (syntax highlighting), making code eas
 
 So, a **script** is just a set of instructions stored in a text file that Python can run.  
 
-# Example
+ Example
 '''python
 File: `hello.py`
 print("Hello, world!")
@@ -111,7 +111,7 @@ We want the computer to make a choice. These choices are called **conditional st
 
 A conditional step checks if something is **true** or **false** and then decides what to do.  
 
-### Example
+Example
 
 ```python
 x = 5
@@ -134,7 +134,7 @@ If it’s false, Python runs the else block.
 
 That’s how Python makes decisions in your programs.
 ------------
-Python Basics: Variables and Data Types
+### Python Basics: Variables and Data Types
 
 1. Variables
 	•	A variable is like a labeled box that stores a value.
@@ -213,6 +213,32 @@ cranky=True
 	•	str → text
 	•	bool → True/False
 	•	Variables are boxes that can store, change, and display these values.
+-----------------
+# Expressions in Python
+An *expression* in Python is a combination of values, variables, and operators that Python can evaluate to produce a result.  
+When evaluating expressions, Python follows the order of operations (PEMDAS):
+
+1. *Parentheses*  
+2. *Exponent / Power* (**)  
+3. *Multiplication / Division* (*, /, //, %) – left to right  
+4. *Addition / Subtraction* (+, -) – left to right
+
+   Example
+   ```python
+   x=1+2**3/4*5
+   print(x)
+   # 11.0
+   ```
+   Step by step evaluation:
+	1.	Power → 2 ** 3 = 8
+→ x = 1 + 8 / 4 * 5
+	2.	Division → 8 / 4 = 2.0
+→ x = 1 + 2.0 * 5
+	3.	Multiplication → 2.0 * 5 = 10.0
+→ x = 1 + 10.0
+	4.	Addition → 1 + 10.0 = 11.0
+
+ Result: 11.0
 
 
 
