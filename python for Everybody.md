@@ -14,17 +14,17 @@ Chapter 4 — Functions / Функции
 
 Resources / Ресурсы
 
-🔹 Overview / Обзор
+# Overview / Обзор
 
 Course: Python for Everybody, University of Michigan (Charles Severance)
 Source: py4e.com
  and Coursera
 
 The course introduces Python basics: variables, expressions, conditionals, functions, strings, files, lists, dictionaries, tuples, regular expressions, web, databases, and visualization.
-📚 Chapters / Главы
+
+# Chapters / Главы
 Chapter 2 — Variables & Expressions / Переменные и выражения
 
-English:
 
 Constants: fixed values (e.g., PI = 3.14)
 
