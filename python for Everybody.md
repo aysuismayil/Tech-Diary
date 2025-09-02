@@ -1,5 +1,6 @@
-📘 Python for Everybody — Notes
-📑 Table of Contents / Оглавление
+# Python for Everybody — Notes
+
+## Table of Contents / Оглавление
 
 Overview / Обзор
 
