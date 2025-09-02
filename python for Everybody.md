@@ -1,33 +1,34 @@
-Installing Python
+📘 Python for Everybody — Notes
+📑 Table of Contents / Оглавление
 
-Why Program?
+Overview / Обзор
 
-Variables, expressions and statements
+Chapters / Главы
 
-Conditional Execution
+Chapter 2 — Variables & Expressions / Переменные и выражения
 
-Functions
+Chapter 3 — Conditional Execution / Условные операторы
 
-Loops and Iterations
+Chapter 4 — Functions / Функции
 
-Strings
+Resources / Ресурсы
 
-Files
+🔹 Overview / Обзор
 
-Lists
+Course: Python for Everybody, University of Michigan (Charles Severance)
+Source: py4e.com
+ and Coursera
 
-Dictionaries
+The course introduces Python basics: variables, expressions, conditionals, functions, strings, files, lists, dictionaries, tuples, regular expressions, web, databases, and visualization.
+📚 Chapters / Главы
+Chapter 2 — Variables & Expressions / Переменные и выражения
 
-Tuples
+English:
 
-Regular Expressions
+Constants: fixed values (e.g., PI = 3.14)
 
-Network Programming
+Variables: names that store data (x = 10)
 
-Using Web Services
+Expressions: calculations with values (a * b)
 
-Object-Oriented Programming
-
-Databases
-
-Data Visualization
+Input/Output: input() and print()
