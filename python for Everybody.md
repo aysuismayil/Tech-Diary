@@ -26,6 +26,7 @@ The course introduces Python basics: variables, expressions, conditionals, funct
 Chapter 2 — Variables & Expressions / Переменные и выражения
 
 English:
+
 Constants: fixed values (e.g., PI = 3.14)
 
 Variables: names that store data (x = 10)
@@ -35,6 +36,7 @@ Expressions: calculations with values (a * b)
 Input/Output: input() and print()
 
 Русский:
+
 Константы: фиксированные значения (PI = 3.14)
 
 Переменные: имена для хранения данных (x = 10)
