@@ -25,7 +25,7 @@ The course introduces Python basics: variables, expressions, conditionals, funct
 # Chapters / Главы
 Chapter 2 — Variables & Expressions / Переменные и выражения
 
-
+English:
 Constants: fixed values (e.g., PI = 3.14)
 
 Variables: names that store data (x = 10)
@@ -33,3 +33,34 @@ Variables: names that store data (x = 10)
 Expressions: calculations with values (a * b)
 
 Input/Output: input() and print()
+
+Русский:
+Константы: фиксированные значения (PI = 3.14)
+
+Переменные: имена для хранения данных (x = 10)
+
+Выражения: вычисления с числами (a * b)
+
+Ввод/вывод: input() и print()
+
+Example / Пример:
+```
+name = input("Enter your name: ")
+print("Hello,", name)
+```
+Chapter 3 — Conditional Execution / Условные операторы
+
+English:
+Use if, elif, else to control the flow.
+
+Русский:
+Используем if, elif, else для управления логикой.
+
+Example / Пример:
+```
+age = int(input("Your age: "))
+if age >= 18:
+    print("Adult")
+else:
+    print("Underage")
+```
