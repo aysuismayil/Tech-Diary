@@ -23,7 +23,7 @@ Source: py4e.com
 The course introduces Python basics: variables, expressions, conditionals, functions, strings, files, lists, dictionaries, tuples, regular expressions, web, databases, and visualization.
 
 # Chapters / Главы
-Chapter 2 — Variables & Expressions / Переменные и выражения
+## Chapter 2 — Variables & Expressions / Переменные и выражения
 
 English:
 
@@ -50,7 +50,7 @@ Example / Пример:
 name = input("Enter your name: ")
 print("Hello,", name)
 ```
-Chapter 3 — Conditional Execution / Условные операторы
+## Chapter 3 — Conditional Execution / Условные операторы
 
 English:
 Use if, elif, else to control the flow.
@@ -66,3 +66,23 @@ if age >= 18:
 else:
     print("Underage")
 ```
+## Chapter 4 — Functions / Функции
+
+English:
+Functions let you group reusable code.
+
+Русский:
+Функции позволяют объединять код и использовать его повторно.
+
+Example / Пример:
+```
+def greet(name):
+    return f"Hi, {name}!"
+
+print(greet("Alice"))
+```
+🔗 Resources / Ресурсы
+
+Full lessons — py4e.com
+
+Coursera course
