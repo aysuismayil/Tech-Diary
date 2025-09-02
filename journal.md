@@ -37,11 +37,11 @@ When we write a program in Python, it’s like writing a text file made of lines
 Each line is an instruction, and when we put these lines together, they make a whole program.  
 
 For example:  
-'''python
+```python
 x = 2
 x = x + 2
 print(x)
-'''
+```
 First, we put the number 2 into the variable x.
 
 Then we add 2 more and store the result back into x.
@@ -72,14 +72,14 @@ Text editors often help by showing colors (syntax highlighting), making code eas
 So, a **script** is just a set of instructions stored in a text file that Python can run.  
 
  Example
-'''python
+```python
 File: `hello.py`
 print("Hello, world!")
 Run it in the terminal:
 python hello.py
 Output:
 Hello, world!
-'''
+```
 
 ### Programming Basics: Flow of Control
 
@@ -196,15 +196,8 @@ Output: Good night
 5. Boolean (bool)
 	•	Stores a value that can only be True or False.
 	•	Named after the mathematician George Boole.
-	•	Examples:
-```python
-late_to_class=False
-cranky=True
-```
-•	Useful for yes/no questions:
-	•	Is the student late? → True / False
-	•	Is the light on? → True / False
-	•	Is the user verified? → True / False
+
+
 
  
   Summary Tip:
@@ -213,33 +206,7 @@ cranky=True
 	•	str → text
 	•	bool → True/False
 	•	Variables are boxes that can store, change, and display these values.
------------------
-# Expressions in Python
-An *expression* in Python is a combination of values, variables, and operators that Python can evaluate to produce a result.  
-When evaluating expressions, Python follows the order of operations (PEMDAS):
 
-1. *Parentheses*  
-2. *Exponent / Power* (**)  
-3. *Multiplication / Division* (*, /, //, %) – left to right  
-4. *Addition / Subtraction* (+, -) – left to right
-
-   Example
-   ```python
-   x=1+2**3/4*5
-   print(x)
-   # 11.0
-   ```
-   Step by step evaluation:
-Power → 2 ** 3 = 8
-→ x = 1 + 8 / 4 * 5
-Division → 8 / 4 = 2.0
-→ x = 1 + 2.0 * 5
-Multiplication → 2.0 * 5 = 10.0
-→ x = 1 + 10.0
-Addition → 1 + 10.0 = 11.0
-
- Result: 11.0
----------------------------
 
 
 
